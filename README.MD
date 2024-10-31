@@ -54,6 +54,6 @@ To enhance Inquisitor's capabilities, future work will focus on:
 To install Inquisitor, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/inquisitor.git
-cd inquisitor
+git clone https://github.com/sanskar240/Inquisitor.git
+cd Inquisitor
 pip install -r requirements.txt
